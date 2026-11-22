@@ -195,7 +195,7 @@ The full PBL report (literature review, methodology, results and discussion) is 
 ## 👤 Author
 
 **Himanshu Singh**: B.Tech CSE (4th year), ITM University, Gwalior (session 2023–2027)
-Guide: **Dr. Pallavi Khatri**, Assistant Professor, SOET
+
 
 ## 🙏 Acknowledgements
 
