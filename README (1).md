@@ -24,19 +24,6 @@ Classifies daily weather-station records into four temperature-anomaly classes (
 - **React dashboard** with model comparison, confusion matrices, training curves and a live **Predict** tab (Flask API).
 - **Works without installing Node.js:** a prebuilt `standalone/dashboard.html` opens in any browser.
 
-## 🖼️ Screenshots
-
-| Overview | Model comparison |
-|---|---|
-| ![Overview](docs/screenshots/overview.png) | ![Model comparison](docs/screenshots/model_comparison.png) |
-
-| Confusion matrix | Training curves |
-|---|---|
-| ![Confusion matrix](docs/screenshots/confusion_matrix.png) | ![Training curves](docs/screenshots/training_curves.png) |
-
-| Predict tab |
-|---|
-| ![Predict](docs/screenshots/predict.png) |
 
 ## 📊 Results (preliminary run)
 
